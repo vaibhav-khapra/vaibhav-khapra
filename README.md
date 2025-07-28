@@ -30,9 +30,14 @@
 
 ### 🧠 Skills & Tools
 
-`React.js` · `Next.js` · `Kotlin` · `Java` · `Python` · `C` · `JavaScript`  
-`Tailwind CSS` · `HTML/CSS` · `SQL` · `MongoDB` · `Express.js` · `Git`  
-`VSCode` · `Android Studio` · `Firebase` · `Figma`
+| Category               | Skills                                                                                |
+|------------------------|---------------------------------------------------------------------------------------|
+| **Languages**          | JavaScript (ES6+), Python, Java, Kotlin, C                                            |
+| **Frameworks / Libraries** | React.js, Next.js, Express.js, Tailwind CSS                                           |
+| **Databases**          | MongoDB, SQL                                                                          |
+| **Tools & Platforms**  | Git, VSCode, Android Studio, Firebase, Figma                                          |
+| **Web Technologies**   | HTML, CSS, REST APIs, JWT, Payment Gateway Integration                                |
+| **Other**              | Responsive UI, Secure Authentication, Core CS Fundamentals                            |
 
 ---
 
