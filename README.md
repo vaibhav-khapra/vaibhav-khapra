@@ -19,8 +19,9 @@
 | Project                        | Description                                            | Tech Stack                                  |
 |--------------------------------|--------------------------------------------------------|---------------------------------------------|
 | 🎯 **TrackNest**               | Inventory Management SaaS with light/dark theme        | `Next.js`, `React`, `Tailwind CSS`          |
+| 🎯 **FinTrack**               | Ledger Management Platform                              | `Next.js`, `React`, `Tailwind CSS`          |
 | 🏫 **School Website**          | School website with admin panel for content/admin      | `Next.js`, `React`, `MongoDB`, `Tailwind CSS` |
-| ⚡ **Electra Hub E-Commerce**   | Comprehensive e-commerce platform for electronics      | `Next.js`, `React`, `Node.js`, `MongoDB`, `Stripe` |
+| ⚡ **Electra Hub E-Commerce**   | Comprehensive e-commerce platform for electronics     | `Next.js`, `React`, `Node.js`, `MongoDB`, `Stripe` |
 | 🥛 **Milkmate**                | Online dairy delivery/order management application     | `Next.js`, `React`, `MongoDB`, `Node.js`    |
 | 🎬 **Netflix Clone**           | Frontend UI of Netflix (Web & Android)                 | `HTML/CSS`, `JavaScript`                    |
 | 🎵 **Spotify Clone**           | Fully responsive Spotify UI                            | `HTML`, `CSS`, `JavaScript`                 |
